@@ -4,7 +4,7 @@ import Root from '../pages/Root/Root';
 import ErrorPage from '../pages/ErrorPage/ErrorPage';
 import Home from '../pages/Home/Home';
 import Apps from '../pages/AllApps/AllApps';
-//import Installation from '../pages/Installation/Installation';
+import Installation from '../pages/Installation/Installation';
 import AppDetails from '../pages/AppDetails/AppDetails';
 import AppNotFound from '../pages/AppNotFound/AppNotFound';
 
@@ -64,10 +64,10 @@ export const router = createBrowserRouter([
           return { app: app || null };
         },
       },
-      // {
-      //   path: "/installation",
-      //   Component: Installation,
-      // },
+      {
+        path: "/installation",
+        Component: Installation,
+      },
     ]
   },
 ]);

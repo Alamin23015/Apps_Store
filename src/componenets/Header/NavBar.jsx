@@ -9,7 +9,7 @@ const NavBar = ({ startLoading }) => {
 
 
     const openGitProfile = () => {
-        window.open('https://github.com/shuv-on');
+        window.open('https://github.com/Alamin23015');
     };
 
 

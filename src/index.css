@@ -1,0 +1,5 @@
+@import "tailwindcss";
+@plugin "daisyui";
+.custom-progress {
+  background: linear-gradient(to right, #3b82f6, #6366f1, #8b5cf6) !important;
+}

@@ -1,0 +1,578 @@
+[
+  {
+    "image": "https://picsum.photos/seed/picsum1/200/300",
+    "title": "CodeFlow IDE",
+    "companyName": "DevCore Inc.",
+    "id": 1,
+    "description": "A next-generation integrated development environment for modern developers. \nIt offers intelligent code completion with AI assistance. \nFeatures seamless Git integration for version control. \nSupports over 30 programming languages out of the box. \nIncludes powerful debugging and testing tools to streamline your workflow.",
+    "size": 150,
+    "reviews": 25480,
+    "ratingAvg": 4.7,
+    "downloads": 1,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 450 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 5330 },
+      { "name": "5 star", "count": 18000 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/picsum2/200/300",
+    "title": "PixelPerfect Editor",
+    "companyName": "Creative Labs",
+    "id": 2,
+    "description": "Edit photos with professional tools, filters, and AI-powered enhancements. \nOur app provides a comprehensive suite of editing options. \nUtilize advanced features like layer-based editing and masking. \nChoose from hundreds of unique filters and effects to perfect your images. \nAI-retouching tools make portrait enhancements quick and easy.",
+    "size": 85,
+    "reviews": 16700,
+    "ratingAvg": 4.6,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 12000 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/picsum3/200/300",
+    "title": "SoundWave Music",
+    "companyName": "AudioVibe",
+    "id": 3,
+    "description": "Stream unlimited music, podcasts, and create your own playlists. \nEnjoy high-fidelity audio quality for an immersive listening experience. \nDiscover new artists with our expertly curated playlists and recommendations. \nDownload your favorite tracks and podcasts for offline listening. \nTune into thousands of live radio stations from around the world.",
+    "size": 60,
+    "reviews": 89500,
+    "ratingAvg": 4.8,
+    "downloads": 10,
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 1800 },
+      { "name": "3 star", "count": 4500 },
+      { "name": "4 star", "count": 12000 },
+      { "name": "5 star", "count": 70000 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/picsum4/200/300",
+    "title": "DataDrive Cloud",
+    "companyName": "Insight Analytics",
+    "id": 4,
+    "description": "Securely store and share your files with 100GB of free cloud storage. \nYour data is protected with end-to-end encryption for maximum privacy. \nAutomatically back up photos and videos from your device. \nEasily share large files and folders with a simple link. \nAccess your files from any device, anywhere in the world.",
+    "size": 45,
+    "reviews": 45210,
+    "ratingAvg": 4.5,
+    "downloads": 2,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 4010 },
+      { "name": "4 star", "count": 11200 },
+      { "name": "5 star", "count": 28000 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/picsum5/200/300",
+    "title": "Zen Garden Meditation",
+    "companyName": "Mindful Moments LLC",
+    "id": 5,
+    "description": "Guided meditations, sleep stories, and calming sounds for stress relief. \nOur extensive library helps you manage anxiety and improve focus. \nListen to soothing sleep stories to fall asleep faster and rest better. \nCreate your own soundscapes with a mix of nature sounds and music. \nTrack your progress with daily streaks and mindful minutes.",
+    "size": 95,
+    "reviews": 12300,
+    "ratingAvg": 4.9,
+    "downloads": 0.5,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 350 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 10000 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/picsum6/200/300",
+    "title": "ConnectSphere Social",
+    "companyName": "Connective Tech",
+    "id": 6,
+    "description": "Connect with friends and family, share updates, and join communities. \nExperience high-quality video and voice calls for free. \nDiscover and join groups based on your hobbies and interests. \nShare your moments with photos, videos, and stories. \nCustomize your profile to express your unique personality.",
+    "size": 75,
+    "reviews": 150000,
+    "ratingAvg": 4.2,
+    "downloads": 25,
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 8000 },
+      { "name": "3 star", "count": 22000 },
+      { "name": "4 star", "count": 45000 },
+      { "name": "5 star", "count": 70000 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/picsum7/200/300",
+    "title": "FitTrack Fitness",
+    "companyName": "ActiveLife Co.",
+    "id": 7,
+    "description": "Track your workouts, set fitness goals, and monitor your progress. \nChoose from hundreds of guided workouts for all fitness levels. \nUse GPS to track your runs, walks, and bike rides. \nLog your meals and track your calories and macros. \nGet detailed charts and statistics to visualize your achievements.",
+    "size": 110,
+    "reviews": 33000,
+    "ratingAvg": 4.6,
+    "downloads": 3,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 3000 },
+      { "name": "4 star", "count": 9000 },
+      { "name": "5 star", "count": 20000 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/picsum8/200/300",
+    "title": "QuickBill Finance",
+    "companyName": "Fintech Solutions",
+    "id": 8,
+    "description": "Manage your expenses, track your budget, and pay bills on time. \nConnect your bank accounts for a complete view of your finances. \nGet smart alerts for upcoming bills and low balances. \nAutomatically categorize your spending to see where your money goes. \nSet financial goals and track your progress towards them.",
+    "size": 55,
+    "reviews": 19800,
+    "ratingAvg": 4.7,
+    "downloads": 0.8,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 14000 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/picsum9/200/300",
+    "title": "Chef's Table Recipes",
+    "companyName": "Gourmet Apps",
+    "id": 9,
+    "description": "Discover thousands of recipes, create meal plans, and generate shopping lists. \nFollow along with step-by-step video instructions. \nSearch for recipes based on ingredients, diet, or cuisine. \nCreate a weekly meal plan with our intuitive planner tool. \nAutomatically generate a shopping list from your chosen recipes.",
+    "size": 65,
+    "reviews": 9500,
+    "ratingAvg": 4.8,
+    "downloads": 1.2,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 7000 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/picsum10/200/300",
+    "title": "TravelWise Planner",
+    "companyName": "Voyager Systems",
+    "id": 10,
+    "description": "Plan your trips, book flights and hotels, and explore new destinations. \nOrganize all your booking confirmations in one central itinerary. \nGet recommendations for restaurants and attractions near you. \nUse offline maps to navigate without an internet connection. \nReceive real-time flight status updates and gate change alerts.",
+    "size": 80,
+    "reviews": 22500,
+    "ratingAvg": 4.4,
+    "downloads": 1.5,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 3000 },
+      { "name": "4 star", "count": 7000 },
+      { "name": "5 star", "count": 11000 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/picsum11/200/300",
+    "title": "MindMap Pro",
+    "companyName": "Productivity Tools",
+    "id": 11,
+    "description": "Visualize your ideas with intuitive mind mapping and brainstorming tools. \nChoose from various templates to kickstart your projects. \nCollaborate with your team in real-time on a shared canvas. \nAttach files, links, and notes to your mind map nodes. \nExport your creations to PDF, PNG, or other formats.",
+    "size": 40,
+    "reviews": 7800,
+    "ratingAvg": 4.7,
+    "downloads": 0.6,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 130 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 5000 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/picsum12/200/300",
+    "title": "SketchPad Draw",
+    "companyName": "Artisan Digital",
+    "id": 12,
+    "description": "A simple yet powerful drawing and sketching app for all ages. \nEnjoy a realistic drawing experience with a variety of brushes and tools. \nWork with layers to easily manage complex artwork. \nUse the color wheel and custom palettes to find the perfect shade. \nImport images to trace or use as a reference for your art.",
+    "size": 50,
+    "reviews": 11200,
+    "ratingAvg": 4.3,
+    "downloads": 2.2,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 5000 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/picsum13/200/300",
+    "title": "NewsFeed Daily",
+    "companyName": "InfoStream Media",
+    "id": 13,
+    "description": "Get personalized news updates from trusted sources around the world. \nCustomize your news feed by selecting your favorite topics and publishers. \nReceive breaking news alerts to stay informed on the latest events. \nSave articles for offline reading during your commute. \nSwitch to dark mode for a comfortable reading experience at night.",
+    "size": 35,
+    "reviews": 38000,
+    "ratingAvg": 4.5,
+    "downloads": 7,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1100 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 11000 },
+      { "name": "5 star", "count": 20000 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/picsum14/200/300",
+    "title": "WeatherNow Forecast",
+    "companyName": "AtmoSphere Inc.",
+    "id": 14,
+    "description": "Accurate, real-time weather forecasts and alerts for your location. \nGet detailed hourly, daily, and 10-day forecasts. \nView interactive radar maps to track storms and precipitation. \nReceive severe weather alerts to stay safe. \nCheck the air quality index and UV index for your area.",
+    "size": 25,
+    "reviews": 65000,
+    "ratingAvg": 4.8,
+    "downloads": 12,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 3500 },
+      { "name": "4 star", "count": 10000 },
+      { "name": "5 star", "count": 50000 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/picsum15/200/300",
+    "title": "LearnLang Language",
+    "companyName": "EduTech Global",
+    "id": 15,
+    "description": "Learn a new language with fun, bite-sized lessons and interactive exercises. \nOur curriculum is designed by language experts to be effective and engaging. \nPractice your pronunciation with our speech recognition technology. \nBuild your vocabulary with interactive games and flashcards. \nTrack your learning progress and stay motivated with daily goals.",
+    "size": 120,
+    "reviews": 42000,
+    "ratingAvg": 4.7,
+    "downloads": 4,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 9000 },
+      { "name": "5 star", "count": 30000 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/picsum16/200/300",
+    "title": "GameQuest Adventures",
+    "companyName": "PixelForge Games",
+    "id": 16,
+    "description": "Dive into epic quests and battle mythical creatures in this RPG. \nCustomize your hero with unique skills and gear. \nTeam up with friends for co-op multiplayer missions. \nExplore vast open worlds filled with hidden treasures. \nComplete daily challenges to earn exclusive rewards.",
+    "size": 130,
+    "reviews": 28000,
+    "ratingAvg": 4.6,
+    "downloads": 8,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 7000 },
+      { "name": "5 star", "count": 17000 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/picsum17/200/300",
+    "title": "EcoTrack Sustainability",
+    "companyName": "GreenLife Tech",
+    "id": 17,
+    "description": "Monitor your carbon footprint and adopt eco-friendly habits. \nScan products to check their environmental impact. \nJoin challenges to reduce waste and save energy. \nConnect with local recycling and donation centers. \nVisualize your progress with interactive sustainability reports.",
+    "size": 70,
+    "reviews": 15600,
+    "ratingAvg": 4.8,
+    "downloads": 1.8,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 11800 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/picsum18/200/300",
+    "title": "VirtualWardrobe Style",
+    "companyName": "FashionAI Studio",
+    "id": 18,
+    "description": "Organize your closet and get AI outfit recommendations. \nMix and match clothes virtually before buying. \nScan new items to add them to your digital wardrobe. \nGet style tips based on trends and your preferences. \nShare your looks with friends for feedback.",
+    "size": 90,
+    "reviews": 34000,
+    "ratingAvg": 4.5,
+    "downloads": 3.5,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 3800 },
+      { "name": "4 star", "count": 9000 },
+      { "name": "5 star", "count": 19200 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/picsum19/200/300",
+    "title": "PetPal Care",
+    "companyName": "AnimalWellness Apps",
+    "id": 19,
+    "description": "Track your pet's health, schedule vet visits, and log activities. \nGet personalized feeding and exercise plans. \nConnect with local pet sitters and groomers. \nMonitor symptoms and set medication reminders. \nJoin a community to share tips with other pet owners.",
+    "size": 55,
+    "reviews": 21000,
+    "ratingAvg": 4.9,
+    "downloads": 2.1,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 17350 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/picsum20/200/300",
+    "title": "BookHaven Reader",
+    "companyName": "LitWorld Digital",
+    "id": 20,
+    "description": "Access millions of ebooks and audiobooks with one subscription. \nHighlight passages and take notes as you read. \nSync your library across all your devices. \nDiscover new reads with personalized recommendations. \nJoin book clubs and discuss with fellow readers.",
+    "size": 100,
+    "reviews": 56000,
+    "ratingAvg": 4.7,
+    "downloads": 6,
+    "ratings": [
+      { "name": "1 star", "count": 700 },
+      { "name": "2 star", "count": 1100 },
+      { "name": "3 star", "count": 3500 },
+      { "name": "4 star", "count": 12000 },
+      { "name": "5 star", "count": 37700 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/picsum21/200/300",
+    "title": "SleepSync Analyzer",
+    "companyName": "Restful Innovations",
+    "id": 21,
+    "description": "Analyze your sleep patterns with wearable integration. \nCreate custom bedtime routines for better rest. \nWake up gently with smart alarm features. \nTrack sleep quality over time with detailed insights. \nAccess expert tips to improve your sleep hygiene.",
+    "size": 65,
+    "reviews": 29000,
+    "ratingAvg": 4.6,
+    "downloads": 2.8,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 7000 },
+      { "name": "5 star", "count": 19000 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/picsum22/200/300",
+    "title": "TaskMaster Organizer",
+    "companyName": "Efficiency Pro",
+    "id": 22,
+    "description": "Manage tasks, projects, and deadlines with ease. \nPrioritize items using the Eisenhower matrix. \nIntegrate with calendars for seamless scheduling. \nCollaborate on shared lists with your team. \nReview productivity stats to optimize your workflow.",
+    "size": 45,
+    "reviews": 45000,
+    "ratingAvg": 4.4,
+    "downloads": 4.5,
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 2500 },
+      { "name": "3 star", "count": 7000 },
+      { "name": "4 star", "count": 15000 },
+      { "name": "5 star", "count": 24000 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/picsum23/200/300",
+    "title": "ARHome Designer",
+    "companyName": "VirtualBuild Co.",
+    "id": 23,
+    "description": "Visualize furniture and decor in your space using AR. \nBrowse catalogs from top brands and retailers. \nMeasure rooms accurately with built-in tools. \nSave and share your design ideas. \nGet inspiration from community-created rooms.",
+    "size": 140,
+    "reviews": 18000,
+    "ratingAvg": 4.7,
+    "downloads": 1.9,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 12200 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/picsum24/200/300",
+    "title": "CryptoWallet Secure",
+    "companyName": "BlockSecure Finance",
+    "id": 24,
+    "description": "Store, send, and receive cryptocurrencies safely. \nSupport multiple wallets and blockchains. \nMonitor market prices in real-time. \nSet up two-factor authentication for extra security. \nExchange assets directly within the app.",
+    "size": 80,
+    "reviews": 67000,
+    "ratingAvg": 4.3,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 5000 },
+      { "name": "3 star", "count": 10000 },
+      { "name": "4 star", "count": 20000 },
+      { "name": "5 star", "count": 29000 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/picsum25/200/300",
+    "title": "YogaFlow Studio",
+    "companyName": "Wellness Flow",
+    "id": 25,
+    "description": "Follow guided yoga sessions for all skill levels. \nTrack your flexibility and strength progress. \nCustomize routines based on your goals. \nIntegrate breathing exercises for mindfulness. \nAccess pose libraries with detailed instructions.",
+    "size": 105,
+    "reviews": 31000,
+    "ratingAvg": 4.8,
+    "downloads": 3.2,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 23400 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/picsum26/200/300",
+    "title": "NoteVault Organizer",
+    "companyName": "MemoTech Solutions",
+    "id": 26,
+    "description": "Capture ideas, organize notes, and search effortlessly. \nUse tags and folders for better categorization. \nSync notes across devices in real-time. \nConvert voice memos to text automatically. \nCollaborate on shared notebooks with permissions.",
+    "size": 30,
+    "reviews": 52000,
+    "ratingAvg": 4.6,
+    "downloads": 5.2,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 12000 },
+      { "name": "5 star", "count": 34400 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/picsum27/200/300",
+    "title": "RideShare Navigator",
+    "companyName": "UrbanMobility",
+    "id": 27,
+    "description": "Find rides, compare prices, and book in seconds. \nTrack your driver's location in real-time. \nSplit fares easily with group rides. \nRate and review for a safer community. \nAccess eco-friendly ride options like carpooling.",
+    "size": 50,
+    "reviews": 89000,
+    "ratingAvg": 4.5,
+    "downloads": 15,
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 12000 },
+      { "name": "4 star", "count": 25000 },
+      { "name": "5 star", "count": 47000 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/picsum28/200/300",
+    "title": "PlantCare Guide",
+    "companyName": "GreenThumb Digital",
+    "id": 28,
+    "description": "Identify plants, get care tips, and track growth. \nSet reminders for watering and fertilizing. \nConnect with a community of plant enthusiasts. \nDiagnose issues with photo analysis. \nBuild your virtual greenhouse collection.",
+    "size": 60,
+    "reviews": 24000,
+    "ratingAvg": 4.7,
+    "downloads": 2.4,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 5500 },
+      { "name": "5 star", "count": 17200 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/picsum29/200/300",
+    "title": "PodcastPro Listener",
+    "companyName": "AudioEcho Media",
+    "id": 29,
+    "description": "Discover, subscribe, and listen to top podcasts. \nAdjust playback speed and set sleep timers. \nDownload episodes for offline enjoyment. \nGet personalized feeds based on your interests. \nBookmark favorite moments for quick access.",
+    "size": 75,
+    "reviews": 41000,
+    "ratingAvg": 4.8,
+    "downloads": 7.5,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 8000 },
+      { "name": "5 star", "count": 30200 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/picsum30/200/300",
+    "title": "BudgetBuddy Tracker",
+    "companyName": "MoneyWise Tools",
+    "id": 30,
+    "description": "Track income, expenses, and savings goals. \nVisualize spending with pie charts and trends. \nSet budgets for categories like dining out. \nImport transactions from bank statements. \nReceive alerts for overspending risks.",
+    "size": 40,
+    "reviews": 32000,
+    "ratingAvg": 4.6,
+    "downloads": 3.1,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 8000 },
+      { "name": "5 star", "count": 19200 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/picsum31/200/300",
+    "title": "PhotoStory Creator",
+    "companyName": "Memoria Visuals",
+    "id": 31,
+    "description": "Turn photos into animated stories and slideshows. \nAdd music, text, and effects effortlessly. \nShare creations on social media directly. \nUse templates for occasions like weddings. \nBackup your library to the cloud securely.",
+    "size": 115,
+    "reviews": 19000,
+    "ratingAvg": 4.7,
+    "downloads": 2,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 450 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 13000 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/picsum32/200/300",
+    "title": "LangBridge Translator",
+    "companyName": "GlobalComm Tech",
+    "id": 32,
+    "description": "Translate text, voice, and conversations instantly. \nSupport over 100 languages with offline mode. \nUse camera to translate signs and menus. \nLearn phrases with built-in flashcards. \nImprove accuracy with context-aware suggestions.",
+    "size": 85,
+    "reviews": 58000,
+    "ratingAvg": 4.5,
+    "downloads": 11,
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 1800 },
+      { "name": "3 star", "count": 6000 },
+      { "name": "4 star", "count": 15000 },
+      { "name": "5 star", "count": 34000 }
+    ]
+  }
+]

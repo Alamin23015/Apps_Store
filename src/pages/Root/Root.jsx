@@ -10,10 +10,10 @@ const Root = () => {
     const [loading, setLoading] = useState(true);
     const loadingTimeRef = useRef(null);
     const isAppDetailsPage = useMatch("/apps/:id");
-   /*  const navigation = useNavigation(); */
+  
 
 
-    //Initial Loading
+  
     useEffect(() => {
         const initialTimer = setTimeout(() => {
             setLoading(false);
@@ -22,7 +22,7 @@ const Root = () => {
     }, []);
 
 
-    //Menu loading challenge part
+    
     const startLoading = () => {
         setLoading(true);
         if (loadingTimeRef.current) {
